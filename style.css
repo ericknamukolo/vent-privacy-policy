@@ -1,0 +1,68 @@
+/* style.css */
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2em;
+  }
+  
+  strong {
+    color: #FF597B;
+    font-size: 1.8em;
+    display: block;
+    margin-bottom: 1em;
+  }
+  
+  p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 1.5em;
+  }
+  
+  a {
+    color: #FF597B;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+  }
+  
+  .date {
+    font-size: 0.9em;
+    color: #888;
+    margin-top: 1em;
+  }
+  
+  .contact {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 2em;
+  }
+  
+  .contact a {
+    color: #FF597B;
+  }
+  
+  .icon {
+    margin-right: 0.5em;
+    font-size: 1.2em;
+  }
